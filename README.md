@@ -1,4 +1,4 @@
-# Basic Airbnb Clone
+# Airbnb Clone
 Preview
 
 ![Preview Image](Assets/Images/preview.png)
